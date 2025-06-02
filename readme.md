@@ -24,7 +24,7 @@ It extracts audio from a given YouTube URL, transcribes the content, and allows 
 3. **Install Dependencies**:
 
     ```bash
-    pip install -r requirements.txt```
+    pip install -r requirements.txt
 
 4. **Run the Application**:
 
